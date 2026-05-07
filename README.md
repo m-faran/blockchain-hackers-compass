@@ -43,6 +43,7 @@ Before installing the blockchain tools, your Linux environment needs be compatib
 
 #### Frontend
 Similar procedure.
+
 ---
 
 ## Critical Hackathon Knowledge
